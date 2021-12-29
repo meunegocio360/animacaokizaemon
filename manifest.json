@@ -1,9 +1,9 @@
 {
+ "theme_color": "#FFFFFF",
  "name": "Animacão Hospital Vet - Kizaemon - Tour Virtual 360°",
- "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "description": "Estr. Kizaemon Takeuti, 1751 - Jardim Guaciara, Taboão da Serra - SP, 06775-002",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm"
+ "background_color": "#FFFFFF"
 }
